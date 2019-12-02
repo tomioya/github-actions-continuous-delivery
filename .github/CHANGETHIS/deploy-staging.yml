@@ -1,9 +1,0 @@
-name: Staging deployment
-
-on: 
-  pull_request:
-    types: label01
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
