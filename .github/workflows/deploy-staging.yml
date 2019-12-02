@@ -8,6 +8,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name tomioy
-        - 
-      
+      - name: tomioy
+        uses: tomioy@mincrosoft.com
+        env:
+          VAL1: 1
+        
