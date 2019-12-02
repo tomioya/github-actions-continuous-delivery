@@ -10,6 +10,3 @@ jobs:
     steps:
       - name: tomioy
         uses: tomioy@mincrosoft.com
-        env:
-          VAL1: 1
-        
